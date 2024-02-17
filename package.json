@@ -1,0 +1,15 @@
+{
+  "name": "music-lyrics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "alias": {
+    "assets": "./assets"
+  }
+}
